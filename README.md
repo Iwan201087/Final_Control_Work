@@ -23,7 +23,7 @@
 
 4. Установить и удалить deb-пакет с помощью dpkg.
 
-![Task 4](.\Images\Task4.jpg)
+![Task 4](.//Images/Task4.jpg)
 
 5. Выложить [историю команд](HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
